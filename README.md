@@ -6,10 +6,7 @@ the following experiment contains the results of applying the Lazy Snapping algo
 ## Results
 The following images showcase the results of applying the Lazy Snapping algorithm to mona lisa image
 
-### Before Image
-![Before Image](/images/before_image.png)
-
-### After Image
-![After Image](/images/after_image.png)
+### Mona lisa snapped😄
+![mona Image](/main/output.png)
 
 
